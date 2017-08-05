@@ -15,8 +15,8 @@
       <file leaf-file-name="ConvertName.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Y2017/ConvertName.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="178">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,6 +49,14 @@
         <option value="$PROJECT_DIR$/Y2017/M8/D3/Path_Sum_III/Solution.py" />
         <option value="$PROJECT_DIR$/Y2017/M8/D3_NeedRevision/Solution.py" />
         <option value="$PROJECT_DIR$/Y2017/M8/D3_NeedRevision/Sum_of_Left_Leaves/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum.py" />
+        <option value="$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_SortedArray.py" />
+        <option value="$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_Array&amp;Sums.py" />
+        <option value="$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_SingleDict.py" />
+        <option value="$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_BetterSingleDict.py" />
+        <option value="$PROJECT_DIR$/Y2017/M8/D4/Paint_Fence/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M8/D4/Divide_Two_Integers/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M8/D4/Divide_Two_Integers/Solution_better.py" />
       </list>
     </option>
   </component>
@@ -73,6 +81,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -107,7 +117,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="D3_NeedRevision" />
+              <option name="myItemId" value="D4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetcodeSolution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetcodeSolution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Y2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="D4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Divide_Two_Integers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -131,13 +167,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="C:/3rdPartySoftware/Python36/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../9021" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,25 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Solution (1)">
-    <configuration default="false" name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M8/D2/Palindrome_Permutation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetcodeSolutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M8/D2/Palindrome_Permutation/Solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Solution_better">
     <configuration default="false" name="ConvertName" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,6 +217,60 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeSolutions" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M8/D2/AdditiveNumber/Solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TwoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetcodeSolutions" />
+      <option name="SCRIPT_NAME" value="E:\AppData\Dropbox\Workspace\Python\LeetcodeSolution\Y2017\M8\D4\Two_Sum_III\TwoSum_SortedArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TwoSum_SingleDict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetcodeSolutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_SingleDict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solution_better" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M8/D4/Divide_Two_Integers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetcodeSolutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M8/D4/Divide_Two_Integers/Solution_better.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,16 +340,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.Solution" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ConvertName" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Solution (1)" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.ConvertName" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Solution (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.TwoSum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TwoSum_SingleDict" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Solution_better" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.Solution (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ConvertName" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Solution" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Solution_better" />
+        <item index="1" class="java.lang.String" itemvalue="Python.TwoSum_SingleDict" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TwoSum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Solution (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ConvertName" />
       </list>
     </recent_temporary>
   </component>
@@ -297,19 +371,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="0" width="976" height="1050" extended-state="0" />
+    <frame x="952" y="0" width="976" height="1050" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36743215" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09090909" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09090909" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39978093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -335,12 +409,43 @@
           <line>54</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_SortedArray.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_SingleDict.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M8/D4/Divide_Two_Integers/Solution_better.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Y2017/ConvertName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/ConvertName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Y2017/ConvertName.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -428,19 +533,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M8/D3/Path_Sum_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D3/Path_Sum_II.py" />
     <entry file="file://$PROJECT_DIR$/Y2017/TreeNode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -448,219 +545,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="677" column="8" lean-forward="false" selection-start-line="677" selection-start-column="8" selection-end-line="677" selection-end-column="8" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#76#1311#1" expanded="false" />
-            <element signature="e#1312#1324#0" expanded="false" />
-            <element signature="e#1415#1488#0" expanded="false" />
-            <element signature="e#1531#2628#0" expanded="false" />
-            <element signature="e#1531#1676#1" expanded="false" />
-            <element signature="e#1759#1807#0" expanded="false" />
-            <element signature="e#1910#1914#0" expanded="false" />
-            <element signature="e#1990#2032#0" expanded="false" />
-            <element signature="e#2143#2235#0" expanded="false" />
-            <element signature="e#2311#2353#0" expanded="false" />
-            <element signature="e#2431#2490#0" expanded="false" />
-            <element signature="e#2570#2628#0" expanded="false" />
-            <element signature="e#2656#4165#0" expanded="false" />
-            <element signature="e#2656#2914#1" expanded="false" />
-            <element signature="e#3026#3221#0" expanded="false" />
-            <element signature="e#3026#3208#1" expanded="false" />
-            <element signature="e#3305#3353#0" expanded="false" />
-            <element signature="e#3447#3451#0" expanded="false" />
-            <element signature="e#3527#3569#0" expanded="false" />
-            <element signature="e#3680#3772#0" expanded="false" />
-            <element signature="e#3848#3890#0" expanded="false" />
-            <element signature="e#3968#4027#0" expanded="false" />
-            <element signature="e#4107#4165#0" expanded="false" />
-            <element signature="e#4200#5493#0" expanded="false" />
-            <element signature="e#4200#4417#1" expanded="false" />
-            <element signature="e#4500#4548#0" expanded="false" />
-            <element signature="e#4643#4647#0" expanded="false" />
-            <element signature="e#4723#4765#0" expanded="false" />
-            <element signature="e#4876#4968#0" expanded="false" />
-            <element signature="e#5044#5086#0" expanded="false" />
-            <element signature="e#5164#5223#0" expanded="false" />
-            <element signature="e#5303#5361#0" expanded="false" />
-            <element signature="e#5439#5493#0" expanded="false" />
-            <element signature="e#5545#6924#0" expanded="false" />
-            <element signature="e#5545#5848#1" expanded="false" />
-            <element signature="e#5931#5979#0" expanded="false" />
-            <element signature="e#6074#6078#0" expanded="false" />
-            <element signature="e#6154#6196#0" expanded="false" />
-            <element signature="e#6307#6399#0" expanded="false" />
-            <element signature="e#6475#6517#0" expanded="false" />
-            <element signature="e#6595#6654#0" expanded="false" />
-            <element signature="e#6734#6792#0" expanded="false" />
-            <element signature="e#6870#6924#0" expanded="false" />
-            <element signature="e#6955#8019#0" expanded="false" />
-            <element signature="e#6955#7209#1" expanded="false" />
-            <element signature="e#7292#7340#0" expanded="false" />
-            <element signature="e#7439#7443#0" expanded="false" />
-            <element signature="e#7519#7561#0" expanded="false" />
-            <element signature="e#7672#7764#0" expanded="false" />
-            <element signature="e#7840#7882#0" expanded="false" />
-            <element signature="e#7960#8019#0" expanded="false" />
-            <element signature="e#8047#9270#0" expanded="false" />
-            <element signature="e#8047#8345#1" expanded="false" />
-            <element signature="e#8428#8476#0" expanded="false" />
-            <element signature="e#8575#8579#0" expanded="false" />
-            <element signature="e#8655#8697#0" expanded="false" />
-            <element signature="e#8808#8900#0" expanded="false" />
-            <element signature="e#8976#9018#0" expanded="false" />
-            <element signature="e#9096#9155#0" expanded="false" />
-            <element signature="e#9231#9270#0" expanded="false" />
-            <element signature="e#9298#10396#0" expanded="false" />
-            <element signature="e#9298#9455#1" expanded="false" />
-            <element signature="e#9538#9586#0" expanded="false" />
-            <element signature="e#9678#9682#0" expanded="false" />
-            <element signature="e#9758#9800#0" expanded="false" />
-            <element signature="e#9911#10003#0" expanded="false" />
-            <element signature="e#10079#10121#0" expanded="false" />
-            <element signature="e#10199#10258#0" expanded="false" />
-            <element signature="e#10338#10396#0" expanded="false" />
-            <element signature="e#10428#11586#0" expanded="false" />
-            <element signature="e#10428#10634#1" expanded="false" />
-            <element signature="e#10717#10765#0" expanded="false" />
-            <element signature="e#10868#10872#0" expanded="false" />
-            <element signature="e#10948#10990#0" expanded="false" />
-            <element signature="e#11101#11193#0" expanded="false" />
-            <element signature="e#11269#11311#0" expanded="false" />
-            <element signature="e#11389#11448#0" expanded="false" />
-            <element signature="e#11528#11586#0" expanded="false" />
-            <element signature="e#11620#12652#0" expanded="false" />
-            <element signature="e#11620#11831#1" expanded="false" />
-            <element signature="e#11914#11962#0" expanded="false" />
-            <element signature="e#12072#12076#0" expanded="false" />
-            <element signature="e#12152#12194#0" expanded="false" />
-            <element signature="e#12305#12397#0" expanded="false" />
-            <element signature="e#12473#12515#0" expanded="false" />
-            <element signature="e#12593#12652#0" expanded="false" />
-            <element signature="e#12682#13848#0" expanded="false" />
-            <element signature="e#12682#12823#1" expanded="false" />
-            <element signature="e#12906#12954#0" expanded="false" />
-            <element signature="e#13051#13134#0" expanded="false" />
-            <element signature="e#13210#13252#0" expanded="false" />
-            <element signature="e#13363#13455#0" expanded="false" />
-            <element signature="e#13531#13573#0" expanded="false" />
-            <element signature="e#13651#13710#0" expanded="false" />
-            <element signature="e#13790#13848#0" expanded="false" />
-            <element signature="e#13877#15326#0" expanded="false" />
-            <element signature="e#13877#14379#1" expanded="false" />
-            <element signature="e#14462#14510#0" expanded="false" />
-            <element signature="e#14608#14612#0" expanded="false" />
-            <element signature="e#14688#14730#0" expanded="false" />
-            <element signature="e#14841#14933#0" expanded="false" />
-            <element signature="e#15009#15051#0" expanded="false" />
-            <element signature="e#15129#15188#0" expanded="false" />
-            <element signature="e#15268#15326#0" expanded="false" />
-            <element signature="e#15361#16667#0" expanded="false" />
-            <element signature="e#15361#15586#1" expanded="false" />
-            <element signature="e#15669#15717#0" expanded="false" />
-            <element signature="e#15817#15821#0" expanded="false" />
-            <element signature="e#15897#15939#0" expanded="false" />
-            <element signature="e#16050#16142#0" expanded="false" />
-            <element signature="e#16218#16260#0" expanded="false" />
-            <element signature="e#16338#16397#0" expanded="false" />
-            <element signature="e#16477#16535#0" expanded="false" />
-            <element signature="e#16613#16667#0" expanded="false" />
-            <element signature="e#16697#18664#0" expanded="false" />
-            <element signature="e#16697#17500#1" expanded="false" />
-            <element signature="e#17583#17631#0" expanded="false" />
-            <element signature="e#17730#17818#0" expanded="false" />
-            <element signature="e#17894#17936#0" expanded="false" />
-            <element signature="e#18047#18139#0" expanded="false" />
-            <element signature="e#18215#18257#0" expanded="false" />
-            <element signature="e#18335#18394#0" expanded="false" />
-            <element signature="e#18474#18532#0" expanded="false" />
-            <element signature="e#18610#18664#0" expanded="false" />
-            <element signature="e#18693#19959#0" expanded="false" />
-            <element signature="e#18693#18871#1" expanded="false" />
-            <element signature="e#18954#19002#0" expanded="false" />
-            <element signature="e#19106#19110#0" expanded="false" />
-            <element signature="e#19186#19228#0" expanded="false" />
-            <element signature="e#19311#19386#0" expanded="false" />
-            <element signature="e#19497#19589#0" expanded="false" />
-            <element signature="e#19665#19707#0" expanded="false" />
-            <element signature="e#19785#19844#0" expanded="false" />
-            <element signature="e#19920#19959#0" expanded="false" />
-            <element signature="e#19989#21004#0" expanded="false" />
-            <element signature="e#19989#20191#1" expanded="false" />
-            <element signature="e#20274#20322#0" expanded="false" />
-            <element signature="e#20424#20428#0" expanded="false" />
-            <element signature="e#20504#20546#0" expanded="false" />
-            <element signature="e#20657#20749#0" expanded="false" />
-            <element signature="e#20825#20867#0" expanded="false" />
-            <element signature="e#20945#21004#0" expanded="false" />
-            <element signature="e#21036#22171#0" expanded="false" />
-            <element signature="e#21036#21219#1" expanded="false" />
-            <element signature="e#21302#21350#0" expanded="false" />
-            <element signature="e#21453#21457#0" expanded="false" />
-            <element signature="e#21533#21575#0" expanded="false" />
-            <element signature="e#21686#21778#0" expanded="false" />
-            <element signature="e#21854#21896#0" expanded="false" />
-            <element signature="e#21974#22033#0" expanded="false" />
-            <element signature="e#22113#22171#0" expanded="false" />
-            <element signature="e#22205#22751#1" expanded="false" />
-            <element signature="e#22834#22882#0" expanded="false" />
-            <element signature="e#23018#23022#0" expanded="false" />
-            <element signature="e#23098#23140#0" expanded="false" />
-            <element signature="e#23251#23343#0" expanded="false" />
-            <element signature="e#23419#23461#0" expanded="false" />
-            <element signature="e#23539#23598#0" expanded="false" />
-            <element signature="e#23678#23736#0" expanded="false" />
-            <element signature="e#23767#24562#0" expanded="false" />
-            <element signature="e#23858#23906#0" expanded="false" />
-            <element signature="e#23982#23986#0" expanded="false" />
-            <element signature="e#24062#24104#0" expanded="false" />
-            <element signature="e#24215#24307#0" expanded="false" />
-            <element signature="e#24383#24425#0" expanded="false" />
-            <element signature="e#24503#24562#0" expanded="false" />
-            <element signature="e#24589#25555#0" expanded="false" />
-            <element signature="e#24708#24761#0" expanded="false" />
-            <element signature="e#24837#24841#0" expanded="false" />
-            <element signature="e#24917#24959#0" expanded="false" />
-            <element signature="e#25070#25162#0" expanded="false" />
-            <element signature="e#25238#25280#0" expanded="false" />
-            <element signature="e#25358#25417#0" expanded="false" />
-            <element signature="e#25497#25555#0" expanded="false" />
-            <element signature="e#25593#26198#0" expanded="false" />
-            <element signature="e#25730#25778#0" expanded="false" />
-            <element signature="e#25854#25858#0" expanded="false" />
-            <element signature="e#25969#26061#0" expanded="false" />
-            <element signature="e#26139#26198#0" expanded="false" />
-            <element signature="e#26231#28397#0" expanded="false" />
-            <element signature="e#26231#26397#1" expanded="false" />
-            <element signature="e#26493#26538#0" expanded="false" />
-            <element signature="e#26633#26676#0" expanded="false" />
-            <element signature="e#26771#27005#0" expanded="false" />
-            <element signature="e#26771#26992#1" expanded="false" />
-            <element signature="e#27098#27102#0" expanded="false" />
-            <element signature="e#27194#27272#0" expanded="false" />
-            <element signature="e#27366#27443#0" expanded="false" />
-            <element signature="e#27537#27610#0" expanded="false" />
-            <element signature="e#27705#27880#0" expanded="false" />
-            <element signature="e#27705#27867#1" expanded="false" />
-            <element signature="e#27950#28108#0" expanded="false" />
-            <element signature="e#27950#28095#1" expanded="false" />
-            <element signature="e#28184#28188#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M8/D3/Add_Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D3/Add_Strings.py" />
     <entry file="file://$PROJECT_DIR$/Y2017/M8/D3_NeedRevision/Add_Strings_NeedRevision/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" column="91" lean-forward="false" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,30 +560,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M8/D3_NeedRevision/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D3_NeedRevision/Solution.py" />
     <entry file="file://$PROJECT_DIR$/Y2017/M8/D3_NeedRevision/Sum_of_Left_Leaves/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_SortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_Array&amp;Sums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_SingleDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D4/Two_Sum_III/TwoSum_BetterSingleDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D4/Paint_Fence/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D4/Divide_Two_Integers/Solution_better.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M8/D4/Divide_Two_Integers/Solution_naive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Y2017/ConvertName.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="178">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
