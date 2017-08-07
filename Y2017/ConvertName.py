@@ -8,5 +8,5 @@ def convertName(string):
     return res
 
 
-string = "Read N Characters Given Read4"
+string = "Find All Anagrams in a String"
 print(convertName(string))
