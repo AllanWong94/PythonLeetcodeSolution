@@ -8,5 +8,5 @@ def convertName(string):
     return res
 
 
-string = "Find All Anagrams in a String"
+string = "Remove Nth Node From End of List"
 print(convertName(string))
