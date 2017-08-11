@@ -8,5 +8,5 @@ def convertName(string):
     return res
 
 
-string = "Remove Nth Node From End of List"
+string = "Find Mode in Binary Search Tree"
 print(convertName(string))
