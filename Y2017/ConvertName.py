@@ -8,5 +8,5 @@ def convertName(string):
     return res
 
 
-string = "Find Mode in Binary Search Tree"
+string = "Minimum Absolute Difference in BST"
 print(convertName(string))
