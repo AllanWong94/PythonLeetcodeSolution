@@ -8,5 +8,5 @@ def convertName(string):
     return res
 
 
-string = "Minimum Absolute Difference in BST"
+string = "Different Ways to Add Parentheses"
 print(convertName(string))
