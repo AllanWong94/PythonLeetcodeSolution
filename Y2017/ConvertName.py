@@ -8,5 +8,5 @@ def convertName(string):
     return res
 
 
-string = "Different Ways to Add Parentheses"
+string = "Minimum Index Sum of Two Lists"
 print(convertName(string))
