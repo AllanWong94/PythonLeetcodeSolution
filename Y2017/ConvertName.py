@@ -8,5 +8,6 @@ def convertName(string):
     return res
 
 
-string = "Minimum Index Sum of Two Lists"
+
+string = "Design Compressed String Iterator"
 print(convertName(string))
