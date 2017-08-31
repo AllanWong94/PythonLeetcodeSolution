@@ -9,5 +9,5 @@ def convertName(string):
 
 
 
-string = "Design Compressed String Iterator"
+string = "Maximum XOR of Two Numbers in an Array"
 print(convertName(string))
