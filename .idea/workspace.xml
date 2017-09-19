@@ -15,18 +15,38 @@
       <file leaf-file-name="ConvertName.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Y2017/ConvertName.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="481">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square/Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution_v2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square/Solution_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Y2017/M9/D15/Binary_Tree_Right_Side_View/Solution.py">
+        <entry file="file://$PROJECT_DIR$/Y2017/M9/D18/Search_a_2D_Matrix/Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="185">
+              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -52,18 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Y2017/M9/D1/Fraction_to_Recurring_Decimal/Solution.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D1/Bulls_and_Cows/Solution.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D2/Solution.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D2/Add_Two_Numbers_II/Solution.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D2/Sort_Colors/Solution.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D3/Decode_Ways/Solution.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D3/Decode_Ways/Solution_dp.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D3/Wiggle_Sort/Solution.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D3/Wiggle_Sort/Solution_v2.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D4/Count_Complete_Tree_Nodes/Solution.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D4/Count_Complete_Tree_Nodes/Solution_logn.py" />
-        <option value="$PROJECT_DIR$/Y2017/M9/D4/Longest_Substring_with_At_Least_K_Repearing_Characters/Solution.py" />
         <option value="$PROJECT_DIR$/Y2017/M9/D5/Convert_Sorted_List_to_Binary_Search_Tree/Solution.py" />
         <option value="$PROJECT_DIR$/Y2017/M9/D5/Convert_Sorted_List_to_Binary_Search_Tree/Solution_v2.py" />
         <option value="$PROJECT_DIR$/Y2017/M9/D5/Increasing_Triplet_Subsequence/Solution.py" />
@@ -103,13 +111,26 @@
         <option value="$PROJECT_DIR$/Y2017/M9/D14/Partition_List/Solution.py" />
         <option value="$PROJECT_DIR$/Y2017/M9/D15/Palindrome_Partitioning/Solution.py" />
         <option value="$PROJECT_DIR$/Y2017/M9/D15/Binary_Tree_Right_Side_View/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D16/Search_in_Rotated_Sorted_Array_II/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D16/Search_in_Rotated_Sorted_Array_II_NeedRevision/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D16/Basic_Calculator_II/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D17/Meeting_Rooms_II/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D17/Meeting_Rooms_II/Solution_v2.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits/Solution_naive.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits/Soluition.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits_NeedRevision/Soluition.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D18/Search_a_2D_Matrix/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square/Solution.py" />
+        <option value="$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square/Solution_v2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
-    <option name="height" value="1050" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,7 +184,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="D15" />
+              <option name="myItemId" value="D18" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetcodeSolution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetcodeSolution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Y2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="D18" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maximal_Square" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,38 +262,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Solution (3)">
-    <configuration default="false" name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Solution (2)">
+    <configuration default="false" name="Solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D14/Remove_Duplicates_from_Sorted_Array_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D17/Meeting_Rooms_II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeSolutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D14/Remove_Duplicates_from_Sorted_Array_II/Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D17/Meeting_Rooms_II/Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Solution_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Solution_naive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D14/Remove_Duplicates_from_Sorted_Array_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeSolutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D14/Remove_Duplicates_from_Sorted_Array_II/Solution_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits/Solution_naive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Soluition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetcodeSolutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits/Soluition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,12 +324,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D14/Partition_List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D18/Search_a_2D_Matrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeSolutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D14/Partition_List/Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D18/Search_a_2D_Matrix/Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,30 +342,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D15/Palindrome_Partitioning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeSolutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D15/Palindrome_Partitioning/Solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y2017/M9/D15/Binary_Tree_Right_Side_View" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeetcodeSolutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D15/Binary_Tree_Right_Side_View/Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square/Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,19 +418,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Solution" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Solution_v2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Solution (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Solution (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Solution (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Solution (5)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Solution_naive" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Soluition" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Solution (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Solution (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Solution (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Solution (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Solution (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Solution_v2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Solution" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Solution (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Solution (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Soluition" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Solution_naive" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -409,18 +456,19 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="0" width="976" height="1050" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3841336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37703142" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2584885" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25785482" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37677985" sideWeight="0.496875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31744313" sideWeight="0.496875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -906,7 +954,40 @@
           <line>42</line>
           <option name="timeStamp" value="138" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M9/D16/Search_in_Rotated_Sorted_Array_II_NeedRevision/Solution.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M9/D16/Search_in_Rotated_Sorted_Array_II_NeedRevision/Solution.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Meeting_Rooms_II_NeedRevision/Solution.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits_NeedRevision/Soluition.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M9/D18/Search_a_2D_Matrix/Solution.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square/Solution.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -914,79 +995,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="139" />
+      <option name="time" value="150" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Y2017/M8/D31/Subsets/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M9/D1/Fraction_to_Recurring_Decimal/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-2026417951/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="958">
-          <caret line="3762" column="67" lean-forward="true" selection-start-line="3762" selection-start-column="67" selection-end-line="3762" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M9/D1/Bulls_and_Cows/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M9/D2/Add_Two_Numbers_II/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1327">
-          <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M9/D2/Sort_Colors/Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M9/D3/Decode_Ways/Solution_dp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M9/D3/Decode_Ways/Solution_naive_recursive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="18" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M9/D3/Wiggle_Sort/Solution_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="1" column="73" lean-forward="false" selection-start-line="1" selection-start-column="73" selection-end-line="1" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Y2017/M9/D3/Wiggle_Sort/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
@@ -1230,13 +1243,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/3rdPartySoftware/Python36/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Y2017/M9/D14/Remove_Duplicates_from_Sorted_Array_II/Solution_v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
@@ -1276,18 +1282,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/ConvertName.py">
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D15/Binary_Tree_Right_Side_View/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="207">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Y2017/M9/D15/Binary_Tree_Right_Side_View/Solution.py">
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D16/Search_in_Rotated_Sorted_Array_II_NeedRevision/Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="296">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D16/Basic_Calculator_II/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Meeting_Rooms_II_NeedRevision/Solution_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Meeting_Rooms_II_NeedRevision/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits_NeedRevision/Solution_naive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D17_NeedRevision/Count_Numbers_with_Unique_Digits_NeedRevision/Soluition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <marker date="1505801436730" expanded="true" signature="93:376" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/3rdPartySoftware/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/ConvertName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D18/Maximal_Square/Solution_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y2017/M9/D18/Search_a_2D_Matrix/Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
           <folding />
         </state>
       </provider>
